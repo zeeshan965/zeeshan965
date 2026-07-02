@@ -120,15 +120,27 @@ Built CRM tools, communication platforms, backend services, dashboards, and busi
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=zeeshan965&show_icons=true&theme=default" alt="Zeeshan's GitHub stats" />
+  <img
+    height="180"
+    src="https://github-readme-stats.vercel.app/api?username=zeeshan965&show_icons=true&hide_border=true&count_private=true"
+    alt="Zeeshan's GitHub stats"
+  />
 </p>
 
 <p align="center">
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=zeeshan965" alt="Zeeshan's GitHub streak" />
+  <img
+    height="180"
+    src="https://streak-stats.demolab.com?user=zeeshan965&hide_border=true"
+    alt="Zeeshan's GitHub streak"
+  />
 </p>
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeeshan965&layout=compact" alt="Top languages" />
+  <img
+    height="180"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeeshan965&layout=compact&hide_border=true"
+    alt="Top languages"
+  />
 </p>
 
 ---
