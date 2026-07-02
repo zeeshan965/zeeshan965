@@ -119,7 +119,7 @@ Built CRM tools, communication platforms, backend services, dashboards, and busi
 
 ## 📊 GitHub Stats
 
-<p align="center">
+<p align="left">
   <img
     height="180"
     src="https://streak-stats.demolab.com?user=zeeshan965&hide_border=true"
