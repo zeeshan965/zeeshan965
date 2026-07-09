@@ -108,9 +108,9 @@ Built CRM tools, communication platforms, backend services, dashboards, and busi
       <a href="https://github.com/zeeshan965/music-store-laravel9">View Repository</a>
     </td>
     <td width="50%">
-      <h3>Rewatch File Upload</h3>
-      <p>TypeScript application using MVC and service patterns for REST-based file upload processing.</p>
-      <a href="https://github.com/zeeshan965/rewatch-file-upload">View Repository</a>
+      <h3>Day 2 Day Scripts</h3>
+      <p>A collection of large-scale projects, smaller mvps versions, covering real-time video chat, screen sharing, web scraping, and automation scripts.</p>
+      <a href="https://github.com/zeeshan965/day2day_scripts">View Repository</a>
     </td>
   </tr>
 </table>
